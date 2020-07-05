@@ -16,6 +16,8 @@ public interface ESConstant {
 
     String UUID_INDEX_NAME = "ult_uuid";
 
+    String FIELD_ID  = "id";
+
     String FIELD_PROJECT = "project";
 
     String FIELD_MODULE = "module";
