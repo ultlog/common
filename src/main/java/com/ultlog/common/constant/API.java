@@ -10,7 +10,4 @@ public interface API {
 
     String POST_LOG = "/api/v1/log";
 
-    String POST_HEALTH = "/api/v1/health";
-
-    String GET_HEALTH = "/ultlog/get";
 }
